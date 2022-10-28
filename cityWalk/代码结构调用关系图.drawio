@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T07:11:35.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" version="20.5.1" etag="Aa7DKz7Buj8jNPF390ti" type="github"><diagram id="NqreZQVCH0NjTD2UiSHF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-28T07:20:21.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="Nt4XlPclgkUthD0D5e8a" version="20.5.1" type="github">
+  <diagram id="NqreZQVCH0NjTD2UiSHF" name="第 1 页">
+    <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-3" value="&lt;b&gt;Web Interface&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-4" value="&lt;b&gt;Controller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-6" value="&lt;b&gt;Service&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-7" value="&lt;b&gt;Mapper&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-8" value="&lt;b&gt;Pojo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-9" value="&lt;b&gt;Database&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-10" value="&lt;b&gt;method&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0099e5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-11" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#d20962;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-14" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#d20962;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-jVKLPFjag-kM5jsu0Ie-16" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#d20962;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
